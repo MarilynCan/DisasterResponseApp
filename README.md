@@ -1,5 +1,6 @@
 
 ## Disaster Response Pipeline Project 
+![Project Logo]('../img/img1.png')
 
 ### Table of contents
 1. Porject Overview
